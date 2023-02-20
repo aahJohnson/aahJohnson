@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Johnson, @aahJohnson
-- 👀 I’m interested in front-end software development
-- 🌱 I’m currently mastering react js while studying more back-end related subjects, mainly in java
+- 👀 I’m interested in web- and front-end software development
+- 🌱 I’m currently mastering react js, javascript and typescript
 - 📫 Reach me at aahjohnson@proton.me
 
 <!---
