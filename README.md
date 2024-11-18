@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adam Johnson, @aahJohnson
+- 👋 Hi, I’m Ada Johnson, @aahJohnson
 - 👀 I’m interested in web- and front-end software development
 - 🌱 I’m currently mastering react js, javascript and typescript
 - 📫 Reach me at aahjohnson@proton.me
