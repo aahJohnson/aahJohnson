@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ada Johnson, @aahJohnson
-- 👀 I’m interested in web- and front-end software development
+- 👀 I’m interested in web- and ui/ux development
 - 🌱 I’m currently mastering react js, javascript and typescript
 - 📫 Reach me at johnson@pixagon.se
 
